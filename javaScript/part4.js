@@ -74,7 +74,7 @@
 
 // alert(`${num1} + ${num2} = ${num1 + num2}`);
 
-//Final challenge better than concatenation
+//Final challenge using String template literals
 
 // let $name1 = "Alenere";
 
