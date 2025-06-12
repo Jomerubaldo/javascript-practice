@@ -54,10 +54,36 @@
 
 // using slice() fuction to crap the word start and the end is final word to get
 
-let j = "I have a cat and the cat is so cute";
+// let j = "I have a cat and the cat is so cute";
 
-j = j.slice(31, 35); // counting the words
+// j = j.slice(31, 35); // counting the words
 
-alert(j);
+// alert(j);
 
 //Output: cute
+
+// let $name = "Jomer Ubaldo";
+
+// alert(`Hi, ${$name}.`); // short hands better
+
+// alert("Hi, " + $name + ".");  // traditional but more code
+
+// let num1 = 5;
+
+// let num2 = 4;
+
+// alert(`${num1} + ${num2} = ${num1 + num2}`);
+
+//Final challenge better than concatenation
+
+// let $name1 = "Alenere";
+
+// let $name2 = "David";
+
+// let $name3 = "she";
+
+// let $name4 = "coffee";
+
+// alert(
+//   `${$name1}, the friendly neighbor, waved at ${$name2} as ${$name3} walked by ${$name2}'s house. ${$name2} smiled back and invited ${$name1} in for a cup of ${$name4}.`
+// );
