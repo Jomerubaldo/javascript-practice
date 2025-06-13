@@ -44,7 +44,7 @@
 
 // family.pop(); // the  last part is deleted
 
-// family.shift(); // deleting the arrays value in  the first index
+// family.shift(); // deleting the arrays value in  the first index\
 
 // names = names.slice(0, 3); // deleting the arrays  values using first index and the 2nd index
 
