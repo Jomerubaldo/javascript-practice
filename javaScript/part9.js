@@ -56,3 +56,18 @@
 //   console.log("Jomer");
 //   x++;
 // } while (x < 5);
+
+//challenge Create an array and inside of aaray calculate it using sum and shows the total value
+
+// let arr = [12, 21, 12, 234, 34, 2, 43];
+
+// let sum = 0;
+
+// let i = 0;
+
+// while (arr[i]) {
+//   sum += arr[i];
+//   i++;
+// }
+
+// console.log(sum);
