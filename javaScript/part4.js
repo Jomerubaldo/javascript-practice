@@ -19,10 +19,10 @@ Outoput: m;
 let userName = "Jomerubaldo";
 
 userName = userName.toUpperCase();
-userName1 = userName.toLowerCase();
+userName = userName.toLowerCase();
 
 alert(userName);
-alert(userName1);
+alert(userName);
 
 // Output: JOMERUBALDO
 // Ouput: jomerubaldo
@@ -34,7 +34,7 @@ let word = " World ";
 word = word.trimEnd();
 word = word.trimStart();
 alert(word);
-Output: World;
+// Output: World;
 
 // replace and replaceAll
 
